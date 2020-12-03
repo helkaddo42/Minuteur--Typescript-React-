@@ -1,6 +1,6 @@
-Minuteur--Typescript-React-
 
-Création d'un Timer:
+
+Création d'un minuteur:
 - Play
 - Stop
 - Reset
